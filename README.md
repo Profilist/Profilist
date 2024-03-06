@@ -40,7 +40,7 @@
 </p>
 
 <br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=profilist&show_icons=true&locale=en&layout=compact" alt="profilist" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=profilist&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="profilist" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
