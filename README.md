@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Larris</h1>
 
 ### About Me
-- 🎓 High school senior from Canada pursuing Software Engineering 
+- 🎓 I am a CS student at the University of Waterloo
 - 🌱 I’m currently learning about **algorithms and data structures**
 
 - 📄 Know about my experiences [https://profilist.github.io/resume/](https://profilist.github.io/resume/)
