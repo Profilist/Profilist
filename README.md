@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning about **algorithms and data structures**
 
 - 📄 Know about my experiences [https://profilist.github.io/resume/](https://profilist.github.io/resume/)
+- 🌐 Check out my portfolio! [https://www.larris.me/](https://www.larris.me/)
 
 ---
 
