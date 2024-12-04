@@ -10,10 +10,10 @@
 <h3 align="left">My Tech Stack:</h3>
 <p align="left">
 <!--   Core Programming Languages -->
-  <b>Core Programming Languages:</b><br>
+  <b>Languages:</b><br>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cpp,java,python" />
+      <img src="https://skillicons.dev/icons?i=cpp,python,java,cs,c,r" />
     </a>
   </p>
 
@@ -21,22 +21,29 @@
   <b>Web Development:</b><br>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,next,tailwind" />
+      <img src="https://skillicons.dev/icons?i=react,next,ts,js,nodejs,express,flask,vite,tailwind" />
     </a>
   </p>
 
   <!-- Other Technologies -->
-  <b>Other Technologies:</b><br>
+  <b>Databases:</b><br>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vercel,figma,flutter,firebase,git,mongodb,sqlite,unity,r" />
+      <img src="https://skillicons.dev/icons?i=firebase,mongodb,sqlite,mysql,redis" />
+    </a>
+  </p>
+
+  <b>DevOps/Tools:</b><br>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=docker,git,gcp,aws" />
     </a>
   </p>
 </p>
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=profilist&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="profilist" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=profilist&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook,html,css" alt="profilist" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
