@@ -21,7 +21,7 @@
   <b>Web Development:</b><br>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,next,ts,js,nodejs,express,flask,vite,tailwind" />
+      <img src="https://skillicons.dev/icons?i=react,next,ts,js,nodejs,express,flask,tailwind,php" />
     </a>
   </p>
 
@@ -29,14 +29,14 @@
   <b>Databases:</b><br>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=firebase,mongodb,sqlite,mysql,redis" />
+      <img src="https://skillicons.dev/icons?i=mongodb,sqlite,mysql,firebase" />
     </a>
   </p>
 
   <b>DevOps/Tools:</b><br>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=docker,git,gcp,aws" />
+      <img src="https://skillicons.dev/icons?i=docker,git,gcp,aws,selenium" />
     </a>
   </p>
 </p>
