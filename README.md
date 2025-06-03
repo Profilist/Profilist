@@ -12,42 +12,6 @@ I've also made a [trivia game](https://www.playonthedot.com/) with 2000+ plays, 
 ### I'm currently learning about
 - finetuning large language models for audio
 - systems design
-  
----
-
-<h3 align="left">My Tech Stack:</h3>
-<p align="left">
-<!--   Core Programming Languages -->
-  <b>Languages:</b><br>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cpp,python,java,ts,cs,c,ruby,go" />
-    </a>
-  </p>
-
-  <!-- Web Development -->
-  <b>Frameworks:</b><br>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,flask,tailwind,pytorch,tensorflow" />
-    </a>
-  </p>
-
-  <!-- Other Technologies -->
-  <b>Databases:</b><br>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,sqlite,mysql,postgres" />
-    </a>
-  </p>
-
-  <b>DevOps:</b><br>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=linux,docker,git,gcp,aws,selenium" />
-    </a>
-  </p>
-</p>
 
 ---
 
@@ -56,4 +20,5 @@ I've also made a [trivia game](https://www.playonthedot.com/) with 2000+ plays, 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/larrisxie" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://x.com/larrisx" target="blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 </p>
