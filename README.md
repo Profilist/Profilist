@@ -5,7 +5,9 @@
 - 💼 Interning at Shopify as a SWE this summer
 - ☀️ Seeking 2026 Summer internships
 
-Check out my website! [www.larris.me](https://www.larris.me)
+In the past, I've conducted research at the University of Waterloo on federated learning and transformers, published a [research paper](https://jhss.scholasticahq.com/article/85172-a-machine-learning-approach-to-detect-fraudulent-customers-based-on-their-financial-transaction-history) on training ML models to detect financial fraud, and benchmarked [object detection pipelines](https://github.com/Profilist/Autonomous-Driving) for self-driving cars using different neural networks.
+
+I've also made a [trivia game](https://www.playonthedot.com/) with 2000+ plays, and automated web scraping and built landing pages from scratch at a startup, check out my website [(www.larris.me)](https://www.larris.me) to see more!
 
 ### I'm currently learning about
 - finetuning large language models for audio
