@@ -2,16 +2,17 @@
 
 ### About Me
 - 🎓 CS student at the University of Waterloo
-- 💼 Interning at Shopify as a SWE this summer
-- ☀️ Seeking 2026 Summer internships
+- 💼 Prev @ Shopify as a SWE intern
+- 🥼 Currently doing undergraduate research on security and privacy in machine learning 
 
 In the past, I've conducted research at the University of Waterloo on federated learning and transformers, published a [research paper](https://jhss.scholasticahq.com/article/85172-a-machine-learning-approach-to-detect-fraudulent-customers-based-on-their-financial-transaction-history) on training ML models to detect financial fraud, and benchmarked [object detection pipelines](https://github.com/Profilist/Autonomous-Driving) for self-driving cars using different neural networks.
 
-I've also made a [trivia game](https://www.playonthedot.com/) with 7000+ plays, won 10+ [hackathons](https://devpost.com/larris-xie), and automated web scraping and built landing pages from scratch at a startup, check out my website [(www.larris.me)](https://www.larris.me) to see more!
+I've also made a [trivia game](https://www.playonthedot.com/) with 10k+ plays, won 10+ [hackathons](https://devpost.com/larris-xie), and automated web scraping and built landing pages from scratch at a startup, check out my website [(www.larris.me)](https://www.larris.me) to see more!
 
-### I'm currently learning about
-- finetuning LLMs for rhythm games
-- low level systems design and operating systems
+### I'm currently
+- Building RL environments
+- Learning low level systems design and operating systems
+- Implementing [CrypTen](https://github.com/facebookresearch/CrypTen) for privacy preserving machine learning
 
 ---
 
